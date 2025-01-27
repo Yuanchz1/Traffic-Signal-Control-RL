@@ -1,6 +1,6 @@
-Traffic Signal Control with Reinforcement Learning | Philadelphia, Pennsylvania, USA   
+**Traffic Signal Control with Reinforcement Learning | University of Pennsylvania**
 
-Course Project | Jan. 2024 – May. 2024                
+**Course Project | Jan. 2024 – May. 2024**                
 
 •	Developed a novel reinforcement learning-based traffic signal control (TSC) strategy that optimizes traffic flow by incorporating real-time traffic pressure and queue length data.
 
