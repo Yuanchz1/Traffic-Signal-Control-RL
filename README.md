@@ -4,7 +4,7 @@
 
 •	Developed a novel reinforcement learning-based traffic signal control (TSC) strategy that optimizes traffic flow by incorporating real-time traffic pressure and queue length data.
 
-•	Implemented the hybrid Adv-MP-Co-Light reward function, combining features of Adv-CoLight and Adv-MPLight, to enhance the efficiency of urban traffic management.
+•	Implemented the **hybrid Adv-MP-Co-Light reward function**, combining features of Adv-CoLight and Adv-MPLight, to enhance the efficiency of urban traffic management.
 
 •	Analyzed and demonstrated significant improvements in traffic efficiency and congestion mitigation using real-world datasets (e.g., Hangzhou Dataset).
 
